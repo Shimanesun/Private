@@ -15,5 +15,6 @@ kizashi.eu.org:9641#日本_J1900
 9.9.9.138:12343#法国_School
 9.9.9.138:12344#德国_School
 9.9.9.138:12342#韩国_School
-
+https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt?proxyip=true#香港优选反代合一
+https://raw.githubusercontent.com/cmliu/WorkerVless2sub/refs/heads/main/CloudflareSpeedTest.csv?id=CF优选&port=2053
 
